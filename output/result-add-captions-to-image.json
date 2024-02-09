@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "bb964261-f163-46fa-b7fa-36ddea85fbd1",
+  "content-length": "149",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a sandwich cut in half",
+    "confidence": 0.7409074902534485
+  },
+  "metadata": {
+    "width": 375,
+    "height": 250
+  }
+}
